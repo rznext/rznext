@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rznext
+- 👀 I’m interested in full-stack web dev & AI.
+- 🌱 I’m currently learning anything that's needed.
+- 💞️ I’m looking to collaborate on my own projects.
+- 📫 How to reach me: submit an issue on this repo.
